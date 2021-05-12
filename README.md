@@ -9,5 +9,6 @@ Practicing Python scripting
 | 8/7/2020 | [Roman Numbers](https://github.com/jagannn/PythonPractice/blob/master/numerals.py) |
 | 2/18/2021 | [Guess the number game](https://github.com/jagannn/PythonPractice/blob/master/GuessTheNumber.py) |
 |    |     |
-| 5/11/2021 | [Calculator](calculator.py)
+| 5/11/2021 | [Calculator](calculator.py)|
+| 5/11/2021 | [BlackJack](BlackJack.py)|
 
