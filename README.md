@@ -11,4 +11,5 @@ Practicing Python scripting
 |    |     |
 | 5/11/2021 | [Calculator](calculator.py)|
 | 5/11/2021 | [BlackJack](BlackJack.py)|
+| 5/14/2021 | [Higher-Lower](Higher-Lower-Game/main_2.py) |
 
